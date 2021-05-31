@@ -1,0 +1,4 @@
+include PyTickets/schema.sql
+graft PyTickets/static
+graft PyTickets/templates
+global-exclude *.pyc
